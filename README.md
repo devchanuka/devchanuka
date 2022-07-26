@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @devchanuka
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning Java and Android
+- 💞️ I’m looking to collaborate on open source projects
+- 📫 How to reach me: create an issue 😉
+- This is my new Github account, because I lost access to my old account.
